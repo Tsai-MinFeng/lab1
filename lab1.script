@@ -1,0 +1,21 @@
+Script started on 2019年03月 4日 下午 12:54:31
+]0;~
+[32ms1232@LAPTOP-MK526FKF [33m~[0m
+$ whoma[K[Kami:[K; pwd
+s1232
+/home/s1232
+]0;~
+[32ms1232@LAPTOP-MK526FKF [33m~[0m
+$ git config -1[Kl
+[?1h=user.email=aa0939576169@gmail.com[m
+user.name=cai-minfeng[m
+[K[?1l>]0;~
+[32ms1232@LAPTOP-MK526FKF [33m~[0m
+$ git clone https://github.com/cai-minfeng/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;~
+[32ms1232@LAPTOP-MK526FKF [33m~[0m
+$ exit
+
+Script done on 2019年03月 4日 下午 12:55:46
